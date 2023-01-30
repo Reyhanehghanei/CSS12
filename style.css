@@ -44,6 +44,7 @@ header .container {
     flex-direction: row;
     align-items: center;
     gap: 2%;
+    margin-top: 15px;
 }
 .left h3 {
     font-size: 15px;
@@ -106,7 +107,7 @@ main .container2 .search-container .form-h button {
 /*line3*/
 .line3 {
     background-color: #d8e0e7;
-    margin-top: 100px;
+    margin-top: 170px;
     padding: 20px 0;
 }
 .line3 .container2 {
@@ -148,6 +149,9 @@ input[type=email]:focus {
 }
 .left2 {
     margin-top: 8px;
+}
+.left2 p {
+    margin-bottom: 10px;
 }
 .left2 p span{
     font-weight: bold;
@@ -263,10 +267,13 @@ input[type=email]:focus {
 .line-5 .container2 .boxes .box h1.h1-60 {
     color: #ff5618;
 }
+.t-1 h5{
+    margin-right: 40px;
+}
 /*line6*/
 .line6{
     position: relative;
-    padding: 5px;
+    
     margin-top: 50px;
 }
 .line6 h5 {
